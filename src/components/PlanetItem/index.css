@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.planet-img {
+  width: 30%;
+  height: 300px;
+}
+
+.each-planet-dtls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.name {
+  font-family: 'roboto';
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.desc {
+  font-family: 'roboto';
+  font-size: 20px;
+  text-align: center;
+  color: #ffffff;
+}
